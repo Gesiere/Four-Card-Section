@@ -44,6 +44,7 @@ body{
 }
 
 .section-header h3{
+    width: 90%;
     font-size: 2rem;
     font-weight: 200;
     color: var(--neutral-grayishBlue-clr);
@@ -51,6 +52,7 @@ body{
 
 .section-header h2{
     font-size: 2rem;
+    width: 90%;
     color: var(--neutral-darkblue-clr);
     margin-bottom: 1rem;
     
@@ -102,11 +104,14 @@ body{
     border-top: 5px solid var(--primary-blue-clr);
 }
 
+
+
 .section-text p{
     margin-top: .5rem;
     line-height: 1.8;
     font-size: 1rem;
     opacity: 0.4;
+    text-align: left;
 }
 
 .section-container .img img{
@@ -136,7 +141,7 @@ body{
     }
 
     .section-text p{
-        width: 300px;
+        width: 350px;
     }
 
     .section-one{
