@@ -51,14 +51,13 @@ body{
 
 .section-header h2{
     font-size: 1.5rem;
-
     color: var(--neutral-darkblue-clr);
     margin-bottom: 1rem;
     
 }
 .section-header .text{
-    font-size: 1rem;
-    width: 90%;
+    font-size: .9rem;
+    width: 85%;
     color: var(--neutral-grayishBlue-clr);
     line-height: 1.6;
     margin-left: auto;
