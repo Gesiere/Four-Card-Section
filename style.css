@@ -57,7 +57,7 @@ body{
 }
 .section-header .text{
     font-size: 1.2rem;
-    width: 400px;
+    width: 90%;
     color: var(--neutral-grayishBlue-clr);
     line-height: 1.6;
     margin-left: auto;
