@@ -44,7 +44,6 @@ body{
 }
 
 .section-header h3{
-    width: 90%;
     font-size: 2rem;
     font-weight: 200;
     color: var(--neutral-grayishBlue-clr);
@@ -52,7 +51,7 @@ body{
 
 .section-header h2{
     font-size: 2rem;
-    width: 90%;
+
     color: var(--neutral-darkblue-clr);
     margin-bottom: 1rem;
     
